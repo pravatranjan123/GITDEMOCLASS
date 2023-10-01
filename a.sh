@@ -1,2 +1,2 @@
 echo "prasanta is my name"
-prasanta
+echo "prasanta"
